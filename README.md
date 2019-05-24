@@ -1,4 +1,4 @@
-# Project-UAS-Praktikum-PBO
+# Project-UAS-PBO
 
 A simple billing program for internet cafe, made by a team of colleges student of UIN SGD Bandung.
 
